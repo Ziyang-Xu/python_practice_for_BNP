@@ -1,0 +1,5 @@
+.venv/
+.DS_Store
+notes.egg-info/
+filetree.txt
+__pycache__/
